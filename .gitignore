@@ -1,0 +1,17 @@
+# JetBrains
+.idea
+
+# node
+node_modules
+
+#  others
+.DS_Store
+
+# vendor
+vendor
+
+#lock
+*.lock
+package-lock.json
+
+*.map
